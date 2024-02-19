@@ -1,0 +1,363 @@
+id,Primary Text,Stakeholder Description,Responsibilities,isHeading,parentBinding,module,Artifact Type
+2946,Security,"","","","","",Heading
+2761,Applicable Documents,"","","","","",Heading
+2837,References,"","","","","",Heading
+3082,Compatibility with Accessories/Auxiliary Devices,"","","","","",Heading
+2882,User Classes and Characteristics,"","","","","",Heading
+3034,Stakeholder 1 Name,"","","","","",Stakeholder Definition
+2910,Fluid Ingress,"","","","","",Heading
+3049,Software interfaces,"","","","","",Heading
+3042,Conclusions for <Key System Function #1>,"","","","","",Heading
+3052,Statutory and Regulatory Requirements,"","","","","",Heading
+3093,Electromagnetic Compatibility (EMC),"","","","","",Heading
+2858,Need 1,"","","","","",Heading
+2774,Function Description,"","","","","",Heading
+2820,Stakeholder 2 Name,"","","","","",Stakeholder Definition
+2920,Introduction,"","","","","",Heading
+2758,Stakeholder n Name,"","","","","",Stakeholder Definition
+3029,General Description,"","","","","",Heading
+2984,Scope,"","","","","",Heading
+2967,Operational Requirements,"","","","","",Heading
+2751,FMEA Scales,"","","","","",Heading
+2854,User Environment,"","","","","",Heading
+2963,Nonfunctional Requirements,"","","","","",Heading
+2829,Project Scope,"","","","","",Heading
+2779,Sterility,"","","","","",Heading
+2870,User Documentation,"","","","","",Heading
+2786,Trade Study Results for <Key System Function #1>,"","","","","",Heading
+2988,Functional Requirements,"","","","","",Heading
+2881,Performance Characteristics,"","","","","",Heading
+2943,Interfaces,"","","","","",Heading
+3022,Human Factors,"","","","","",Heading
+3027,Human Factors,"","","","","",Heading
+3009,Product Perspective,"","","","","",Heading
+3078,General Constraints,"","","","","",Heading
+2925,Other Product Requirements,"","","","","",Heading
+2817,Product perspective,"","","","","",Heading
+2787,Security Requirements,"","","","","",Heading
+2947,User Documentation,"","","","","",Heading
+2974,Introduction,"","","","","",Heading
+2759,Assumptions and Dependencies,"","","","","",Heading
+2810,Needs and Features,"","","","","",Heading
+2793,Solution Candidate #1,"","","","","",Heading
+2835,Validation Requirements,"","","","","",Heading
+3014,Operating Environment,"","","","","",Heading
+2912,Relation to Current Products,"","","","","",Heading
+3007,Maintainability Requirements,"","","","","",Heading
+2795,Availability,"","","","","",Heading
+3060,Operational Requirements,"","","","","",Heading
+2921,<Assessment Criterion #1>,"","","","","",Heading
+2996,Documentation Requirements,"","","","","",Heading
+2994,Occurrence Scale,"","","","","",Heading
+2727,Portability,"","","","","",Heading
+3062,Functional Requirements,"","","","","",Heading
+2944,Purpose,"","","","","",Heading
+2919,General Description,"","","","","",Heading
+2914,Function Description,"","","","","",Heading
+2771,Compatibility with Accessories/Auxiliary Devices,"","","","","",Heading
+3072,Overview of the Document,"","","","","",Heading
+2744,System approvals and standards,"","","","","",Heading
+2958,Introduction,"","","","","",Heading
+3067,Specific requirements,"","","","","",Heading
+2876,Trade Study Data,"","","","","",Heading
+2838,"Definitions Acronyms, and Abbreviations","","","","","",Heading
+3015,User/Patient/Clinical Needs,"","","","","",Heading
+3008,Solution Candidates,"","","","","",Heading
+2752,Safety Requirements,"","","","","",Heading
+3002,Portability Requirements,"","","","","",Heading
+3012,Physical/Chemical Characteristics,"","","","","",Heading
+3003,Project Scope,"","","","","",Heading
+2797,Resource Requirements,"","","","","",Heading
+2871,Human-computer interactions (user interfaces),"","","","","",Heading
+2770,S,"","","","","",Heading
+3043,Intended Use,"","","","","",Heading
+2805,Quality Requirements,"","","","","",Heading
+2971,Physical/Chemical Characteristics,"","","","","",Heading
+3081,Interface Requirements,"","","","","",Heading
+2728,Relation to Current Products,"","","","","",Heading
+2909,Capability Requirements,"","","","","",Heading
+3055,Acceptance Testing Requirements,"","","","","",Heading
+3013,"Definitions Acronyms, and Abbreviations","","","","","",Heading
+3035,External Operating Environment,"","","","","",Heading
+2848,Internal Architecture,"","","","","",Heading
+2773,Product Position Statement,"","","","","",Heading
+2894,Compatibility with Environment of Intended Use,"","","","","",Heading
+2731,References,"","","","","",Heading
+2952,Probability of Detection,"","","","","",Heading
+2734,Functional Requirements,"","","","","",Heading
+2977,Product Features,"","","","","",Heading
+3059,Purpose,"","","","","",Heading
+2809,Nonfunctional Requirements,"","","","","",Heading
+2869,System approvals and standards,"","","","","",Heading
+2746,Overall Description,"","","","","",Heading
+2726,General Capabilities,"","","","","",Heading
+2747,Positioning,"","","","","",Heading
+2768,User Classes and Characteristics,"","","","","",Heading
+2766,Acceptance Testing Requirements,"","","","","",Heading
+2969,Operational Scenarios,"","","","","",Heading
+2791,User Acceptance Testing Requirements,"","","","","",Heading
+3037,Risks,"","","","","",Heading
+2807,Documentation Requirements,"","","","","",Heading
+2827,Resource Requirements,"","","","","",Heading
+2736,General Description,"","","","","",Heading
+2849,Assessment Criteria,"","","","","",Heading
+2997,User Characteristics,"","","","","",Heading
+3005,"Definitions Acronyms, and Abbreviations","","","","","",Heading
+2961,User End States,"","","","","",Heading
+2937,Verification Requirements,"","","","","",Heading
+2966,Reliability Requirements,"","","","","",Heading
+3068,Trade Study Recommendations,"","","","","",Heading
+2823,Relationship to Predecessor and Successor Products,"","","","","",Heading
+2815,Document Conventions,"","","","","",Heading
+2887,Product Description,"","","","","",Heading
+3004,Labeling/Packaging,"","","","","",Heading
+2904,Product Features,"","","","","",Heading
+2822,Standards,"","","","","",Heading
+2939,Materials,"","","","","",Heading
+3066,Assumptions and Dependencies,"","","","","",Heading
+2953,Materials,"","","","","",Heading
+2892,Overview of the Document,"","","","","",Heading
+2893,Product Overview,"","","","","",Heading
+3100,Problem Statement,"","","","","",Heading
+2821,Limits and Tolerances,"","","","","",Heading
+2803,Design and Implementation Constraints,"","","","","",Heading
+2757,Statutory and Regulatory Requirements,"","","","","",Heading
+2928,Internal Architecture,"","","","","",Heading
+2959,Maintainability Requirements,"","","","","",Heading
+3057,Design and Implementation Constraints,"","","","","",Heading
+3054,Limits and Tolerances,"","","","","",Heading
+2818,Security Requirements,"","","","","",Heading
+2913,Overall Description,"","","","","",Heading
+2819,Compatibility with Environment of Intended Use,"","","","","",Heading
+2764,Toxicity and Biocompatibility,"","","","","",Heading
+2924,Documentation Requirements,"","","","","",Heading
+2891,Human Factors,"","","","","",Heading
+2863,Product Description,"","","","","",Heading
+3065,Safety Requirements,"","","","","",Heading
+2962,Constraint requirements,"","","","","",Heading
+2800,Performance Characteristics,"","","","","",Heading
+2955,Relationship to Predecessor and Successor Products,"","","","","",Heading
+2862,Safety,"","","","","",Heading
+3048,Performance Requirements,"","","","","",Heading
+3053,Toxicity and Biocompatibility,"","","","","",Heading
+3096,External Operating Environment,"","","","","",Heading
+2826,Electromagnetic Compatibility (EMC),"","","","","",Heading
+2985,Product Perspective,"","","","","",Heading
+2735,Purpose of the Document,"","","","","",Heading
+3028,Quality Requirements,"","","","","",Heading
+2976,Assumptions and Dependencies,"","","","","",Heading
+3073,Document Conventions,"","","","","",Heading
+2753,Assumptions and Dependencies,"","","","","",Heading
+2834,Reliability Requirements,"","","","","",Heading
+2790,Alternatives and Competition,"","","","","",Heading
+2783,Fluid Ingress,"","","","","",Heading
+2789,Operating Environment,"","","","","",Heading
+3044,Hardware interfaces,"","","","","",Heading
+2780,Portability Requirements,"","","","","",Heading
+2927,Labeling/Packaging,"","","","","",Heading
+2832,Need N,"","","","","",Heading
+2737,System Function 1,"","","","","",Heading
+2804,Stakeholder Descriptions,"","","","","",Heading
+2760,References,"","","","","",Heading
+2865,Operational Environment,"","","","","",Heading
+2970,Product Perspective,"","","","","",Heading
+2929,Voluntary/Organizational Requirements,"","","","","",Heading
+2941,<Key System Function #1>,"","","","","",Heading
+2824,Overview of the Document,"","","","","",Heading
+3102,Statutory and Regulatory Requirements,"","","","","",Heading
+2993,Introduction,"","","","","",Heading
+2733,Communications interfaces,"","","","","",Heading
+2916,Severity Scale,"","","","","",Heading
+2842,Verification Requirements,"","","","","",Heading
+2905,Functional Requirements,"","","","","",Heading
+2772,System Function 1,"","","","","",Heading
+3011,Introduction,"","","","","",Heading
+2915,Adaptability,"","","","","",Heading
+2777,Sterility,"","","","","",Heading
+2755,Interface Requirements,"","","","","",Heading
+3056,Scope of the Product,"","","","","",Heading
+2784,Introduction Comp. Test 1 Initial Stream,"","","","","",Heading
+2958,Introduction,"","",true,"",2722,Heading
+2735,Purpose of the Document,"","",true,2958,2722,Heading
+3056,Scope of the Product,"","",true,2958,2722,Heading
+3005,"Definitions Acronyms, and Abbreviations","","",true,2958,2722,Heading
+2760,References,"","",true,2958,2722,Heading
+2824,Overview of the Document,"","",true,2958,2722,Heading
+2919,General Description,"","",true,"",2722,Heading
+2817,Product perspective,"","",true,2919,2722,Heading
+2726,General Capabilities,"","",true,2919,2722,Heading
+3078,General Constraints,"","",true,2919,2722,Heading
+2997,User Characteristics,"","",true,2919,2722,Heading
+3015,User/Patient/Clinical Needs,"","",true,2997,2722,Heading
+3043,Intended Use,"","",true,2997,2722,Heading
+2865,Operational Environment,"","",true,2919,2722,Heading
+2961,User End States,"","",true,2865,2722,Heading
+2969,Operational Scenarios,"","",true,2865,2722,Heading
+3066,Assumptions and Dependencies,"","",true,2919,2722,Heading
+3067,Specific requirements,"","",true,"",2722,Heading
+2909,Capability Requirements,"","",true,3067,2722,Heading
+2962,Constraint requirements,"","",true,3067,2722,Heading
+2915,Adaptability,"","",true,2962,2722,Heading
+2795,Availability,"","",true,2962,2722,Heading
+2727,Portability,"","",true,2962,2722,Heading
+2946,Security,"","",true,2962,2722,Heading
+2862,Safety,"","",true,2962,2722,Heading
+2822,Standards,"","",true,2962,2722,Heading
+2943,Interfaces,"","",true,3067,2722,Heading
+2733,Communications interfaces,"","",true,2943,2722,Heading
+3044,Hardware interfaces,"","",true,2943,2722,Heading
+3049,Software interfaces,"","",true,2943,2722,Heading
+2871,Human-computer interactions (user interfaces),"","",true,2943,2722,Heading
+3048,Performance Requirements,"","",true,3067,2722,Heading
+2891,Human Factors,"","",true,3067,2722,Heading
+2835,Validation Requirements,"","",true,3067,2722,Heading
+2791,User Acceptance Testing Requirements,"","",true,2835,2722,Heading
+2924,Documentation Requirements,"","",true,3067,2722,Heading
+2929,Voluntary/Organizational Requirements,"","",true,2924,2722,Heading
+3102,Statutory and Regulatory Requirements,"","",true,2924,2722,Heading
+2920,Introduction,"","",true,"",2719,Heading
+2751,FMEA Scales,"","",true,"",2719,Heading
+2916,Severity Scale,"","",true,2751,2719,Heading
+2994,Occurrence Scale,"","",true,2751,2719,Heading
+2952,Probability of Detection,"","",true,2751,2719,Heading
+3037,Risks,"","",true,"",2719,Heading
+2770,S,"","",true,"",2721,Heading
+2993,Introduction,"","",true,"",2718,Heading
+2984,Scope,"","",true,2993,2718,Heading
+2761,Applicable Documents,"","",true,2993,2718,Heading
+2876,Trade Study Data,"","",true,"",2718,Heading
+2941,<Key System Function #1>,"","",true,2876,2718,Heading
+2849,Assessment Criteria,"","",true,2941,2718,Heading
+2921,<Assessment Criterion #1>,"","",true,2849,2718,Heading
+3008,Solution Candidates,"","",true,2941,2718,Heading
+2793,Solution Candidate #1,"","",true,3008,2718,Heading
+2786,Trade Study Results for <Key System Function #1>,"","",true,2941,2718,Heading
+3042,Conclusions for <Key System Function #1>,"","",true,2941,2718,Heading
+3068,Trade Study Recommendations,"","",true,"",2718,Heading
+2914,Function Description,"","",true,2737,2723,Heading
+2905,Functional Requirements,"","",true,2737,2723,Heading
+3011,Introduction,"","",true,"",2723,Heading
+3072,Overview of the Document,"","",true,3011,2723,Heading
+3059,Purpose,"","",true,3011,2723,Heading
+3003,Project Scope,"","",true,3011,2723,Heading
+2815,Document Conventions,"","",true,3011,2723,Heading
+3013,"Definitions Acronyms, and Abbreviations","","",true,3011,2723,Heading
+2731,References,"","",true,3011,2723,Heading
+3029,General Description,"","",true,"",2723,Heading
+2887,Product Description,"","",true,3029,2723,Heading
+2728,Relation to Current Products,"","",true,3029,2723,Heading
+2955,Relationship to Predecessor and Successor Products,"","",true,3029,2723,Heading
+2913,Overall Description,"","",true,"",2723,Heading
+2970,Product Perspective,"","",true,2913,2723,Heading
+2977,Product Features,"","",true,2913,2723,Heading
+2882,User Classes and Characteristics,"","",true,2913,2723,Heading
+3014,Operating Environment,"","",true,2913,2723,Heading
+2803,Design and Implementation Constraints,"","",true,2913,2723,Heading
+2870,User Documentation,"","",true,2913,2723,Heading
+2976,Assumptions and Dependencies,"","",true,2913,2723,Heading
+3062,Functional Requirements,"","",true,"",2723,Heading
+2737,System Function 1,"","",true,3062,2723,Heading
+3060,Operational Requirements,"","",true,"",2723,Heading
+3022,Human Factors,"","",true,3060,2723,Heading
+3035,External Operating Environment,"","",true,3060,2723,Heading
+3081,Interface Requirements,"","",true,3060,2723,Heading
+2848,Internal Architecture,"","",true,3081,2723,Heading
+3082,Compatibility with Accessories/Auxiliary Devices,"","",true,3081,2723,Heading
+2894,Compatibility with Environment of Intended Use,"","",true,3081,2723,Heading
+2809,Nonfunctional Requirements,"","",true,"",2723,Heading
+2800,Performance Characteristics,"","",true,2809,2723,Heading
+3054,Limits and Tolerances,"","",true,2800,2723,Heading
+2797,Resource Requirements,"","",true,2809,2723,Heading
+2807,Documentation Requirements,"","",true,2809,2723,Heading
+2752,Safety Requirements,"","",true,2809,2723,Heading
+2910,Fluid Ingress,"","",true,2752,2723,Heading
+2764,Toxicity and Biocompatibility,"","",true,2752,2723,Heading
+2826,Electromagnetic Compatibility (EMC),"","",true,2752,2723,Heading
+2971,Physical/Chemical Characteristics,"","",true,2752,2723,Heading
+2777,Sterility,"","",true,2752,2723,Heading
+2818,Security Requirements,"","",true,2809,2723,Heading
+3002,Portability Requirements,"","",true,2809,2723,Heading
+3028,Quality Requirements,"","",true,2809,2723,Heading
+2937,Verification Requirements,"","",true,2809,2723,Heading
+3055,Acceptance Testing Requirements,"","",true,2937,2723,Heading
+2834,Reliability Requirements,"","",true,2809,2723,Heading
+3007,Maintainability Requirements,"","",true,2809,2723,Heading
+3004,Labeling/Packaging,"","",true,2809,2723,Heading
+2939,Materials,"","",true,2809,2723,Heading
+2757,Statutory and Regulatory Requirements,"","",true,"",2723,Heading
+2744,System approvals and standards,"","",true,2757,2723,Heading
+2974,Introduction,"","",true,"",2724,Heading
+2892,Overview of the Document,"","",true,2974,2724,Heading
+2944,Purpose,"","",true,2974,2724,Heading
+2829,Project Scope,"","",true,2974,2724,Heading
+3073,Document Conventions,"","",true,2974,2724,Heading
+2838,"Definitions Acronyms, and Abbreviations","","",true,2974,2724,Heading
+2837,References,"","",true,2974,2724,Heading
+2736,General Description,"","",true,"",2724,Heading
+2863,Product Description,"","",true,2736,2724,Heading
+2912,Relation to Current Products,"","",true,2736,2724,Heading
+2823,Relationship to Predecessor and Successor Products,"","",true,2736,2724,Heading
+2746,Overall Description,"","",true,"",2724,Heading
+2985,Product Perspective,"","",true,2746,2724,Heading
+2904,Product Features,"","",true,2746,2724,Heading
+2768,User Classes and Characteristics,"","",true,2746,2724,Heading
+2789,Operating Environment,"","",true,2746,2724,Heading
+3057,Design and Implementation Constraints,"","",true,2746,2724,Heading
+2947,User Documentation,"","",true,2746,2724,Heading
+2753,Assumptions and Dependencies,"","",true,2746,2724,Heading
+2734,Functional Requirements,"","",true,"",2724,Heading
+2772,System Function 1,"","",true,2734,2724,Heading
+2774,Function Description,"","",true,2772,2724,Heading
+2988,Functional Requirements,"","",true,2772,2724,Heading
+2967,Operational Requirements,"","",true,"",2724,Heading
+3027,Human Factors,"","",true,2967,2724,Heading
+3096,External Operating Environment,"","",true,2967,2724,Heading
+2755,Interface Requirements,"","",true,2967,2724,Heading
+2928,Internal Architecture,"","",true,2755,2724,Heading
+2771,Compatibility with Accessories/Auxiliary Devices,"","",true,2755,2724,Heading
+2819,Compatibility with Environment of Intended Use,"","",true,2755,2724,Heading
+2963,Nonfunctional Requirements,"","",true,"",2724,Heading
+2881,Performance Characteristics,"","",true,2963,2724,Heading
+2821,Limits and Tolerances,"","",true,2881,2724,Heading
+2827,Resource Requirements,"","",true,2963,2724,Heading
+2996,Documentation Requirements,"","",true,2963,2724,Heading
+3065,Safety Requirements,"","",true,2963,2724,Heading
+2783,Fluid Ingress,"","",true,3065,2724,Heading
+3053,Toxicity and Biocompatibility,"","",true,3065,2724,Heading
+3093,Electromagnetic Compatibility (EMC),"","",true,3065,2724,Heading
+3012,Physical/Chemical Characteristics,"","",true,3065,2724,Heading
+2779,Sterility,"","",true,3065,2724,Heading
+2787,Security Requirements,"","",true,2963,2724,Heading
+2780,Portability Requirements,"","",true,2963,2724,Heading
+2805,Quality Requirements,"","",true,2963,2724,Heading
+2842,Verification Requirements,"","",true,2963,2724,Heading
+2766,Acceptance Testing Requirements,"","",true,2842,2724,Heading
+2966,Reliability Requirements,"","",true,2963,2724,Heading
+2959,Maintainability Requirements,"","",true,2963,2724,Heading
+2927,Labeling/Packaging,"","",true,2963,2724,Heading
+2953,Materials,"","",true,2963,2724,Heading
+3052,Statutory and Regulatory Requirements,"","",true,"",2724,Heading
+2869,System approvals and standards,"","",true,3052,2724,Heading
+2784,Introduction Comp. Test 1 Initial Stream,"","",true,"",2725,Heading
+2747,Positioning,"","",true,"",2725,Heading
+3100,Problem Statement,"","",true,2747,2725,Heading
+2773,Product Position Statement,"","",true,2747,2725,Heading
+2790,Alternatives and Competition,"","",true,2747,2725,Heading
+2804,Stakeholder Descriptions,"","",true,"",2725,Heading
+3034,Stakeholder 1 Name,"","",false,2804,2725,Stakeholder Definition
+2820,Stakeholder 2 Name,"","",false,2804,2725,Stakeholder Definition
+2758,Stakeholder n Name,"","",false,2804,2725,Stakeholder Definition
+2893,Product Overview,"","",true,"",2725,Heading
+3009,Product Perspective,"","",true,2893,2725,Heading
+2854,User Environment,"","",true,2893,2725,Heading
+2759,Assumptions and Dependencies,"","",true,2893,2725,Heading
+2810,Needs and Features,"","",true,"",2725,Heading
+2858,Need 1,"","",true,2810,2725,Heading
+2832,Need N,"","",true,2810,2725,Heading
+2925,Other Product Requirements,"","",true,"",2725,Heading
+
+METADATA
+Exported Artifact IDs=2946|2761|2837|3082|2882|3034|2910|3049|3042|3052|3093|2858|2774|2820|2920|2758|3029|2984|2967|2751|2854|2963|2829|2779|2870|2786|2988|2881|2943|3022|3027|3009|3078|2925|2817|2787|2947|2974|2759|2810|2793|2835|3014|2912|3007|2795|3060|2921|2996|2994|2727|3062|2944|2919|2914|2771|3072|2744|2958|3067|2876|2838|3015|3008|2752|3002|3012|3003|2797|2871|2770|3043|2805|2971|3081|2728|2909|3055|3013|3035|2848|2773|2894|2731|2952|2734|2977|3059|2809|2869|2746|2726|2747|2768|2766|2969|2791|3037|2807|2827|2736|2849|2997|3005|2961|2937|2966|3068|2823|2815|2887|3004|2904|2822|2939|3066|2953|2892|2893|3100|2821|2803|2757|2928|2959|3057|3054|2818|2913|2819|2764|2924|2891|2863|3065|2962|2800|2955|2862|3048|3053|3096|2826|2985|2735|3028|2976|3073|2753|2834|2790|2783|2789|3044|2780|2927|2832|2737|2804|2760|2865|2970|2929|2941|2824|3102|2993|2733|2916|2842|2905|2772|3011|2915|2777|2755|3056|2784|2958|2735|3056|3005|2760|2824|2919|2817|2726|3078|2997|3015|3043|2865|2961|2969|3066|3067|2909|2962|2915|2795|2727|2946|2862|2822|2943|2733|3044|3049|2871|3048|2891|2835|2791|2924|2929|3102|2920|2751|2916|2994|2952|3037|2770|2993|2984|2761|2876|2941|2849|2921|3008|2793|2786|3042|3068|2914|2905|3011|3072|3059|3003|2815|3013|2731|3029|2887|2728|2955|2913|2970|2977|2882|3014|2803|2870|2976|3062|2737|3060|3022|3035|3081|2848|3082|2894|2809|2800|3054|2797|2807|2752|2910|2764|2826|2971|2777|2818|3002|3028|2937|3055|2834|3007|3004|2939|2757|2744|2974|2892|2944|2829|3073|2838|2837|2736|2863|2912|2823|2746|2985|2904|2768|2789|3057|2947|2753|2734|2772|2774|2988|2967|3027|3096|2755|2928|2771|2819|2963|2881|2821|2827|2996|3065|2783|3053|3093|3012|2779|2787|2780|2805|2842|2766|2966|2959|2927|2953|3052|2869|2784|2747|3100|2773|2790|2804|3034|2820|2758|2893|3009|2854|2759|2810|2858|2832|2925
+Export Project Area=https://localhost:9443/rm/rm-projects/_hFmkoP1uEeyTbut3TjgpSA/components/_mAIj0As2Ee2X-pE_BaAiIA
+Export Configuration=https://localhost:9443/rm/cm/stream/_mAPRgAs2Ee2X-pE_BaAiIA
+Export Locale=en_US
